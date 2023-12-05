@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ashle\source\repos\HW_1a\HW_1a\Source.cpp(166,7): warning C4101: 'valid': unreferenced local variable
+  HW_1a.vcxproj -> C:\Users\ashle\source\repos\HW_1a\x64\Debug\HW_1a.exe
